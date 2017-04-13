@@ -14,5 +14,10 @@ export default {
       annual: 0,
       threeYear: 0
     }
+  },
+  applications: {
+    applications: [],
+    count: 0,
+    pagination: {}
   }
 };
